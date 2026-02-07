@@ -2,7 +2,7 @@ class Ferrotunnel < Formula
   desc "Embeddable, extensible, and observable reverse tunnel for Rust developers"
   homepage "https://github.com/MitulShah1/ferrotunnel"
   url "https://github.com/MitulShah1/ferrotunnel/archive/refs/tags/v1.0.1.tar.gz"
-  sha256 "" # Will be filled after release
+  sha256 "b9fc314003bbd93e1a3b47c351df35441717e13580fb45e9c3cd134abc129944" # Will be filled after release
   license "MIT OR Apache-2.0"
   head "https://github.com/MitulShah1/ferrotunnel.git", branch: "main"
 

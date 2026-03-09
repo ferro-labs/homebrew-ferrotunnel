@@ -1,18 +1,18 @@
 # Homebrew Tap for FerroTunnel
 
-Official Homebrew tap for [FerroTunnel](https://github.com/MitulShah1/ferrotunnel) - an embeddable, extensible, and observable reverse tunnel for Rust developers.
+Official Homebrew tap for [FerroTunnel](https://github.com/ferro-labs/ferrotunnel) - an embeddable, extensible, and observable reverse tunnel for Rust developers.
 
 ## Installation
 
 ```bash
-brew tap MitulShah1/ferrotunnel
+brew tap ferro-labs/ferrotunnel
 brew install ferrotunnel
 ```
 
 Or in one command:
 
 ```bash
-brew install MitulShah1/ferrotunnel/ferrotunnel
+brew install ferro-labs/ferrotunnel/ferrotunnel
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ brew upgrade ferrotunnel
 
 ## Documentation
 
-- [Main Repository](https://github.com/MitulShah1/ferrotunnel)
+- [Main Repository](https://github.com/ferro-labs/ferrotunnel)
 - [SETUP.md](SETUP.md) - Tap maintenance guide
 
 ## License

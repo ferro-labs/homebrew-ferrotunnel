@@ -11,7 +11,7 @@ fi
 
 VERSION=$1
 FORMULA_FILE="Formula/ferrotunnel.rb"
-TARBALL_URL="https://github.com/MitulShah1/ferrotunnel/archive/refs/tags/v${VERSION}.tar.gz"
+TARBALL_URL="https://github.com/ferro-labs/ferrotunnel/archive/refs/tags/v${VERSION}.tar.gz"
 
 echo "🔍 Fetching tarball and calculating SHA256..."
 SHA256=$(curl -sL "$TARBALL_URL" | shasum -a 256 | awk '{print $1}')
